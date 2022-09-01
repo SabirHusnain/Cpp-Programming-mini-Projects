@@ -1,0 +1,35 @@
+Displaying Data.....
+-----------------------------------
+         Roll Number          Marks
+                 263
+Subject 1 :                   10
+Subject 2 :                    9
+Subject 3 :                    9
+Subject 4 :                    7
+Subject 5 :                    7
+Average: 8.4
+Fee: Not Cleared
+-----------------------------------
+-----------------------------------
+         Roll Number          Marks
+                 251
+Subject 1 :                   10
+Subject 2 :                   10
+Subject 3 :                   10
+Subject 4 :                    9
+Subject 5 :                   10
+Average: 9.8
+Fee: Cleared
+-----------------------------------
+-----------------------------------
+         Roll Number          Marks
+                 277
+Subject 1 :                    0
+Subject 2 :                   10
+Subject 3 :                   10
+Subject 4 :                    9
+Subject 5 :                    9
+Average: 7.6
+Fee: Not Cleared
+-----------------------------------
+251 got maximum average marks 9.8
